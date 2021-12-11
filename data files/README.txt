@@ -1,0 +1,1 @@
+These files are to be placed in the data folder within darknet repository along with the train and validation zip files
