@@ -1,6 +1,6 @@
 Description of python files
 
-json2txt.py : to generate txt files from json annotations
+json2txt.py : to generate yolo txt files from json annotations
 data_split_list_gen.py: split dataset into train and val (crate train and val folders beforehand)
 class_distr.py: generates plot for number of objects per class
 val_train_class_distr: get distribution of validation and train class objects
